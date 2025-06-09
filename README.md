@@ -42,9 +42,9 @@ You can view the complete workflow in the notebook:
 
 ## 🖼️ Sample Output
 
-Add a visualization like this (optional):
 
-![Prediction Results Plot](prediction-results.png)
+![Pairplot of dataset variables](pairplot.png)
+
 
 ---
 
